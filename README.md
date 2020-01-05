@@ -1,4 +1,4 @@
-# MCDaemon2.0
+# MCDaemon1.3
 a python script for automatically controlling Vanilla Minecraft server
 :( hasn't tested python2 capacity.
 # UNFINISHED
